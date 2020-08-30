@@ -15,3 +15,12 @@ This script has nothing to do with the software it installs.
 
 4. Run script: ```./setup.sh```
 
+## Some Q&A.
+
+**Q**: What operating systems does the script run on?
+
+**A**: This script works for all UNIX-similar operating systems. (Linux, Ubuntu, Debian, etc.)
+
+**Q**: What programming language is the script written in?
+
+**A**: This script written in bash script which allows it to run in the terminal without installing additional software.
