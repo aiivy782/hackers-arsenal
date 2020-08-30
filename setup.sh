@@ -10,7 +10,7 @@ pip install -t requirements.txt
 chmod 777 rsf.py
 cd ..
 git clone https://github.com/rapid7/metasploit-framework
-cd metasploit
+cd metasploit-framework
 chmod 777 msfconsole
 cd ..
 git clone https://github.com/Ignitetch/AdvPhishing
